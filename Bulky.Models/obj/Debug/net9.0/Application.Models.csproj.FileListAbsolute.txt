@@ -1,0 +1,14 @@
+D:\.Net_Core_Projects\Application\Bulky.Models\bin\Debug\net9.0\Application.Models.deps.json
+D:\.Net_Core_Projects\Application\Bulky.Models\bin\Debug\net9.0\Application.Models.runtimeconfig.json
+D:\.Net_Core_Projects\Application\Bulky.Models\bin\Debug\net9.0\Application.Models.dll
+D:\.Net_Core_Projects\Application\Bulky.Models\bin\Debug\net9.0\Application.Models.pdb
+D:\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\Application.Models.csproj.AssemblyReference.cache
+D:\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\Application.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\Application.Models.AssemblyInfoInputs.cache
+D:\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\Application.Models.AssemblyInfo.cs
+D:\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\Application.Models.csproj.CoreCompileInputs.cache
+D:\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\Application.Models.dll
+D:\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\refint\Application.Models.dll
+D:\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\Application.Models.pdb
+D:\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\Application.Models.genruntimeconfig.cache
+D:\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\ref\Application.Models.dll

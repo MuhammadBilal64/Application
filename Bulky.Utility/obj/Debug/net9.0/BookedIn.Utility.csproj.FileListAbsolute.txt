@@ -1,0 +1,12 @@
+D:\.Net_Core_Projects\Application\Bulky.Utility\bin\Debug\net9.0\BookedIn.Utility.deps.json
+D:\.Net_Core_Projects\Application\Bulky.Utility\bin\Debug\net9.0\BookedIn.Utility.dll
+D:\.Net_Core_Projects\Application\Bulky.Utility\bin\Debug\net9.0\BookedIn.Utility.pdb
+D:\.Net_Core_Projects\Application\Bulky.Utility\obj\Debug\net9.0\BookedIn.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net_Core_Projects\Application\Bulky.Utility\obj\Debug\net9.0\BookedIn.Utility.AssemblyInfoInputs.cache
+D:\.Net_Core_Projects\Application\Bulky.Utility\obj\Debug\net9.0\BookedIn.Utility.AssemblyInfo.cs
+D:\.Net_Core_Projects\Application\Bulky.Utility\obj\Debug\net9.0\BookedIn.Utility.csproj.CoreCompileInputs.cache
+D:\.Net_Core_Projects\Application\Bulky.Utility\obj\Debug\net9.0\BookedIn.Utility.dll
+D:\.Net_Core_Projects\Application\Bulky.Utility\obj\Debug\net9.0\refint\BookedIn.Utility.dll
+D:\.Net_Core_Projects\Application\Bulky.Utility\obj\Debug\net9.0\BookedIn.Utility.pdb
+D:\.Net_Core_Projects\Application\Bulky.Utility\obj\Debug\net9.0\ref\BookedIn.Utility.dll
+D:\.Net_Core_Projects\Application\Bulky.Utility\obj\Debug\net9.0\BookedIn.Utility.csproj.AssemblyReference.cache

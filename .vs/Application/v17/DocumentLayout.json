@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net_Core_Projects\\Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\.net_core_projects\\application\\application\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\.net_core_projects\\application\\application\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\.net_core_projects\\application\\application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\.net_core_projects\\application\\application\\areas\\identity\\pages\\account\\manage\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\areas\\identity\\pages\\account\\manage\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\.net_core_projects\\application\\application\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\.net_core_projects\\application\\application\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90829B69-ADA3-4AFF-A370-1E37D3384226}|Bulky.Utility\\BookedIn.Utility.csproj|d:\\.net_core_projects\\application\\bulky.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90829B69-ADA3-4AFF-A370-1E37D3384226}|Bulky.Utility\\BookedIn.Utility.csproj|solutionrelative:bulky.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\.net_core_projects\\application\\application\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\.net_core_projects\\application\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\.net_core_projects\\application\\application\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\.net_core_projects\\application\\application\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90618985-7AEE-45AA-AC6D-A77C48E0B8EC}|Bulky.DataAccess\\BookedIn.DataAccess.csproj|d:\\.net_core_projects\\application\\bulky.dataaccess\\data\\appscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90618985-7AEE-45AA-AC6D-A77C48E0B8EC}|Bulky.DataAccess\\BookedIn.DataAccess.csproj|solutionrelative:bulky.dataaccess\\data\\appscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90618985-7AEE-45AA-AC6D-A77C48E0B8EC}|Bulky.DataAccess\\BookedIn.DataAccess.csproj|d:\\.net_core_projects\\application\\bulky.dataaccess\\migrations\\20250325091146_extendidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90618985-7AEE-45AA-AC6D-A77C48E0B8EC}|Bulky.DataAccess\\BookedIn.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20250325091146_extendidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90618985-7AEE-45AA-AC6D-A77C48E0B8EC}|Bulky.DataAccess\\BookedIn.DataAccess.csproj|d:\\.net_core_projects\\application\\bulky.dataaccess\\migrations\\20250323151741_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90618985-7AEE-45AA-AC6D-A77C48E0B8EC}|Bulky.DataAccess\\BookedIn.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20250323151741_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\.Net_Core_Projects\\Application\\Application\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Application\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "ToolTip": "D:\\.Net_Core_Projects\\Application\\Application\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "RelativeToolTip": "Application\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T17:31:41.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\.Net_Core_Projects\\Application\\Application\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Application\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "D:\\.Net_Core_Projects\\Application\\Application\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "Application\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T17:26:52.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\.Net_Core_Projects\\Application\\Application\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Application\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\.Net_Core_Projects\\Application\\Application\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Application\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T16:48:48.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\.Net_Core_Projects\\Application\\Application\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Application\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\.Net_Core_Projects\\Application\\Application\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Application\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwCkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T16:27:56.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\.Net_Core_Projects\\Application\\Application\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Application\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\.Net_Core_Projects\\Application\\Application\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Application\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-25T15:09:56.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net_Core_Projects\\Application\\Application\\Program.cs",
+              "RelativeDocumentMoniker": "Application\\Program.cs",
+              "ToolTip": "D:\\.Net_Core_Projects\\Application\\Application\\Program.cs",
+              "RelativeToolTip": "Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:23:33.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SD.cs",
+              "DocumentMoniker": "D:\\.Net_Core_Projects\\Application\\Bulky.Utility\\SD.cs",
+              "RelativeDocumentMoniker": "Bulky.Utility\\SD.cs",
+              "ToolTip": "D:\\.Net_Core_Projects\\Application\\Bulky.Utility\\SD.cs",
+              "RelativeToolTip": "Bulky.Utility\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:10:06.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\.Net_Core_Projects\\Application\\Application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Application\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\.Net_Core_Projects\\Application\\Application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Application\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T11:56:58.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\.Net_Core_Projects\\Application\\Application\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Application\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\.Net_Core_Projects\\Application\\Application\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Application\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:21:42.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\.Net_Core_Projects\\Application\\Application\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Application\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\.Net_Core_Projects\\Application\\Application\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Application\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T09:21:01.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250325091146_extendidentityuser.cs",
+              "DocumentMoniker": "D:\\.Net_Core_Projects\\Application\\Bulky.DataAccess\\Migrations\\20250325091146_extendidentityuser.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20250325091146_extendidentityuser.cs",
+              "ToolTip": "D:\\.Net_Core_Projects\\Application\\Bulky.DataAccess\\Migrations\\20250325091146_extendidentityuser.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20250325091146_extendidentityuser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:11:47.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppsContext.cs",
+              "DocumentMoniker": "D:\\.Net_Core_Projects\\Application\\Bulky.DataAccess\\Data\\AppsContext.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Data\\AppsContext.cs",
+              "ToolTip": "D:\\.Net_Core_Projects\\Application\\Bulky.DataAccess\\Data\\AppsContext.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Data\\AppsContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:09:25.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\.Net_Core_Projects\\Application\\Application\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Application\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\.Net_Core_Projects\\Application\\Application\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Application\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T15:04:22.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250323151741_addidentityTables.cs",
+              "DocumentMoniker": "D:\\.Net_Core_Projects\\Application\\Bulky.DataAccess\\Migrations\\20250323151741_addidentityTables.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20250323151741_addidentityTables.cs",
+              "ToolTip": "D:\\.Net_Core_Projects\\Application\\Bulky.DataAccess\\Migrations\\20250323151741_addidentityTables.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20250323151741_addidentityTables.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAA6wNcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:17:42.897Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

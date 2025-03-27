@@ -1,0 +1,4 @@
+D:\.Net_Core_Projects\Application\Application\wwwroot\Images\product\17adac18-9f07-4c05-9977-88997935ebcb.jpg
+D:\.Net_Core_Projects\Application\Application\wwwroot\Images\product\3e20434c-a5b7-4d9e-8280-ecf233656cc7.jpg
+D:\.Net_Core_Projects\Application\Application\wwwroot\Images\product\4cb932ea-c284-4fe7-8a4f-eca64829f4f8.jpg
+D:\.Net_Core_Projects\Application\Application\wwwroot\Images\product\9026c364-5bb5-4580-b58e-60912bfee396.jpg
