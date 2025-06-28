@@ -44,10 +44,14 @@ namespace Application.DataAccess.IRepository
             return query.FirstOrDefault();
         }
         //Category,CoverType
-        public IEnumerable<T> GetAll(string ? includeproperties=null )
+        public IEnumerable<T> GetAll(Expression<Func<T, bool>>? filter = null,string ? includeproperties=null )
         {
             IQueryable<T> query = Dbset;
-            if(!String.IsNullOrEmpty(includeproperties))
+            if (filter != null)
+            {
+                query = query.Where(filter);
+            }
+            if (!String.IsNullOrEmpty(includeproperties))
             {
                 foreach (var property in includeproperties
                     .Split(new char[] { ',' },StringSplitOptions.RemoveEmptyEntries))

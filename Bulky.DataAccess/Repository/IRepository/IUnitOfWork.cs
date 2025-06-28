@@ -12,7 +12,10 @@ namespace BookedIn.DataAccess.Repository.IRepository
 
         IProduct Product { get; }
 
-
+        IShoppingCart ShoppingCart { get; }
+        IOrderDetail OrderDetail { get; }
+        IOrderheader OrderHeader { get; }
+        IApplicationUser applicationUser { get; }
         void Save();
         
            

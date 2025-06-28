@@ -12,3 +12,19 @@ D:\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\refint\BookedIn.
 D:\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\BookedIn.Models.pdb
 D:\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\BookedIn.Models.genruntimeconfig.cache
 D:\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\ref\BookedIn.Models.dll
+D:\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\BookedIn.Models.sourcelink.json
+D:\New Volume\.Net_Core_Projects\Application\Bulky.Models\bin\Debug\net9.0\BookedIn.Models.deps.json
+D:\New Volume\.Net_Core_Projects\Application\Bulky.Models\bin\Debug\net9.0\BookedIn.Models.runtimeconfig.json
+D:\New Volume\.Net_Core_Projects\Application\Bulky.Models\bin\Debug\net9.0\BookedIn.Models.dll
+D:\New Volume\.Net_Core_Projects\Application\Bulky.Models\bin\Debug\net9.0\BookedIn.Models.pdb
+D:\New Volume\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\BookedIn.Models.csproj.AssemblyReference.cache
+D:\New Volume\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\BookedIn.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Volume\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\BookedIn.Models.AssemblyInfoInputs.cache
+D:\New Volume\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\BookedIn.Models.AssemblyInfo.cs
+D:\New Volume\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\BookedIn.Models.csproj.CoreCompileInputs.cache
+D:\New Volume\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\BookedIn.Models.sourcelink.json
+D:\New Volume\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\BookedIn.Models.dll
+D:\New Volume\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\refint\BookedIn.Models.dll
+D:\New Volume\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\BookedIn.Models.pdb
+D:\New Volume\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\BookedIn.Models.genruntimeconfig.cache
+D:\New Volume\.Net_Core_Projects\Application\Bulky.Models\obj\Debug\net9.0\ref\BookedIn.Models.dll

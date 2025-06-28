@@ -12,5 +12,12 @@ public static class SD
         public const string Role_Company = "Company";
         public const string Role_Admin = "Admin";
         public const string Role_Employee = "Employee";
+        public const string PaymentStatusPaid = "Paid";
+        public const string PaymentStatusCOD = "Cash on Delivery";
+        public const string OrderStatusPlaced = "Order Placed";
+        public const string PaymentStatusPending = "Pending";
+        public const string OrderStatusPending = "Pending";
+
+
     }
 }

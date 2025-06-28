@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.Net_Core_Projects\\Application\\Bulky.Utility\\BookedIn.Utility.csproj": {}
+    "D:\\New Volume\\.Net_Core_Projects\\Application\\Bulky.Utility\\BookedIn.Utility.csproj": {}
   },
   "projects": {
-    "D:\\.Net_Core_Projects\\Application\\Bulky.Utility\\BookedIn.Utility.csproj": {
+    "D:\\New Volume\\.Net_Core_Projects\\Application\\Bulky.Utility\\BookedIn.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.Net_Core_Projects\\Application\\Bulky.Utility\\BookedIn.Utility.csproj",
+        "projectUniqueName": "D:\\New Volume\\.Net_Core_Projects\\Application\\Bulky.Utility\\BookedIn.Utility.csproj",
         "projectName": "BookedIn.Utility",
-        "projectPath": "D:\\.Net_Core_Projects\\Application\\Bulky.Utility\\BookedIn.Utility.csproj",
-        "packagesPath": "C:\\Users\\H.H ENTERPRISES\\.nuget\\packages\\",
-        "outputPath": "D:\\.Net_Core_Projects\\Application\\Bulky.Utility\\obj\\",
+        "projectPath": "D:\\New Volume\\.Net_Core_Projects\\Application\\Bulky.Utility\\BookedIn.Utility.csproj",
+        "packagesPath": "C:\\Users\\PCS\\.nuget\\packages\\",
+        "outputPath": "D:\\New Volume\\.Net_Core_Projects\\Application\\Bulky.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\H.H ENTERPRISES\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PCS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -57,6 +57,14 @@
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[48.2.0, )"
             }
           },
           "imports": [
@@ -75,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,23 @@
+﻿@model BookedIn.Models.ViewModels.OrderVM
+@{
+    ViewData["Title"] = "Payment";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white text-center">
+            <h2>Confirm Payment</h2>
+        </div>
+        <div class="card-body text-center">
+            <p>Order ID: <strong>@Model.OrderHeader.Id</strong></p>
+            <p>Total Amount: <strong>@Model.OrderHeader.OrderTotal.ToString("C")</strong></p>
+
+            <form asp-action="CreateStripeSession" asp-controller="Order" method="post">
+                <input type="hidden" name="orderId" value="@Model.OrderHeader.Id" />
+                <button type="submit" class="btn btn-success btn-lg mt-3">
+                    Proceed to Payment
+                </button>
+            </form>
+        </div>
+    </div>
+</div>

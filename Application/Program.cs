@@ -1,16 +1,18 @@
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Options;
 using Application.DataAccess.Data;
 using Application.DataAccess.Repository;
-using BookedIn.DataAccess.Repository.IRepository;
+using BookedIn.DataAccess.DBinitializer;
 using BookedIn.DataAccess.Repository;
-using Microsoft.AspNetCore.Identity;
+using BookedIn.DataAccess.Repository.IRepository;
 using BookedIn.Utility;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
-
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
+using Stripe;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddScoped<IDBInitailizer, DBInitializer>();
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<AppsContext>(options=>options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
 
@@ -26,6 +28,7 @@ builder.Services.ConfigureApplicationCookie(options =>
 builder.Services.AddRazorPages();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<IEmailSender,EmailSender>();
+Stripe.StripeConfiguration.ApiKey = builder.Configuration.GetSection("Stripe:SecretKey").Value;
 
 var app = builder.Build();
 
@@ -51,6 +54,15 @@ app.MapRazorPages();
 app.MapControllerRoute(
     name: "areas",
     pattern: "{area=Customer}/{controller=Home}/{action=Index}/{id?}");
+
+SeedDatabase();
+
+void SeedDatabase()
+{
+    using var scope = app.Services.CreateScope();
+    var dbInitializer = scope.ServiceProvider.GetRequiredService<IDBInitailizer>();
+    dbInitializer.initialize();
+}
 
 
 

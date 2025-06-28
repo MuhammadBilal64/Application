@@ -1,72 +1,80 @@
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery-validation\dist\additional-methods.js
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery-validation\LICENSE.md
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery-validation\dist\jquery.validate.js
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery\dist\jquery.slim.js
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery\dist\jquery.slim.min.js
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery\dist\jquery.slim.min.map
-D:\.Net_Core_Projects\Application\Application\wwwroot\favicon.ico
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery\LICENSE.txt
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap.css
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
-D:\.Net_Core_Projects\Application\Application\wwwroot\js\site.js
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery\dist\jquery.min.js
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
-D:\.Net_Core_Projects\Application\Application\wwwroot\js\product.js
-D:\.Net_Core_Projects\Application\Application\wwwroot\css\site.css
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.js
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery\dist\jquery.min.map
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery\dist\jquery.js
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-D:\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery-validation\LICENSE.md
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery\dist\jquery.slim.js
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery\dist\jquery.slim.min.js
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery\dist\jquery.slim.min.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\favicon.ico
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery\LICENSE.txt
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\js\site.js
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery\dist\jquery.min.js
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\js\product.js
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\css\site.css
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery\dist\jquery.min.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\jquery\dist\jquery.js
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\New Volume\.Net_Core_Projects\Application\Application\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\Images\product\01ab7d65-b54f-432c-82e8-2bed5e140982.jpg
+wwwroot\Images\product\26591e50-d1c3-4c0b-bd53-6a5604c0a805.jpg
 wwwroot\Images\product\2b99956d-56e1-4e76-a67c-8d48bdf94dbe.jpg
+wwwroot\Images\product\3c403ec1-9ddb-471f-98a0-4dc7d03318a2.jpg
 wwwroot\Images\product\5800e583-56d2-4386-a734-d9225063d83a.jpg
+wwwroot\Images\product\59506844-9506-4f94-9baf-2369bcb09ad2.jpg
 wwwroot\Images\product\59b608ee-125e-42fc-83a4-081b11bb314d.jpg
+wwwroot\Images\product\634354fc-e074-4491-8459-2e21deef70d4.jpg
 wwwroot\Images\product\6835e89a-8a46-4ef8-aacc-45d1688b6779.jpg
+wwwroot\Images\product\9248204f-b193-4afc-8ba2-5f7b6a34da13.jpg
+wwwroot\Images\product\9826dfd8-9342-443d-9e2c-1f00815ba795.jpg
+wwwroot\Images\product\adb8660d-b5cf-48fe-9b3c-3508ed4b206f.png
 wwwroot\Images\product\c704f264-5205-42e4-ac02-0d67b008928d.jpg
 wwwroot\Images\product\f8f7164f-cf97-4bc1-b5d0-770b4badcb8e.jpg
 wwwroot\js\product.js
