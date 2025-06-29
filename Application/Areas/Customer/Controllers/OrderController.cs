@@ -201,7 +201,7 @@ namespace BookedIn.Areas.Customer.Controllers
             var orderHeader = _unitOfWork.OrderHeader.Get(u => u.Id == orderId,  "ApplicationUser");
             var orderDetails = _unitOfWork.OrderDetail.GetAll(u => u.OrderHeaderId == orderId, "Product").ToList();
 
-            var domain = "https://localhost:7032/";
+            var domain = Request.Scheme + "://" + Request.Host.Value + "/";
 
             var options = new Stripe.Checkout.SessionCreateOptions
             {
