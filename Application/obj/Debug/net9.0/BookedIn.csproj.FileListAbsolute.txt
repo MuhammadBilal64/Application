@@ -892,3 +892,4 @@ D:\New Volume\.Net_Core_Projects\Application\Application\bin\Debug\net9.0\X.Page
 D:\New Volume\.Net_Core_Projects\Application\Application\bin\Debug\net9.0\X.PagedList.Mvc.Core.dll
 D:\New Volume\.Net_Core_Projects\Application\Application\obj\Debug\net9.0\compressed\lrpnkkemmi-spk9iw1aq2.gz
 D:\New Volume\.Net_Core_Projects\Application\Application\bin\Debug\net9.0\Stripe.net.dll
+D:\New Volume\.Net_Core_Projects\Application\Application\bin\Debug\net9.0\appsettings.Production.json
