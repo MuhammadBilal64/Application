@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\areas\\customer\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\new volume\\.net_core_projects\\application\\application\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\new volume\\.net_core_projects\\application\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +42,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Application\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Application\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwDEAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T08:40:03.404Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Areas\\Customer\\Views\\ShoppingCart\\Index.cshtml",
               "RelativeDocumentMoniker": "Application\\Areas\\Customer\\Views\\ShoppingCart\\Index.cshtml",
               "ToolTip": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Areas\\Customer\\Views\\ShoppingCart\\Index.cshtml",
               "RelativeToolTip": "Application\\Areas\\Customer\\Views\\ShoppingCart\\Index.cshtml",
-              "ViewState": "AgIAADcAAAAAAAAAAAAAAEIAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-29T08:08:54.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.Production.json",
               "DocumentMoniker": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\appsettings.Production.json",
               "RelativeDocumentMoniker": "Application\\appsettings.Production.json",
@@ -59,12 +75,11 @@
               "RelativeToolTip": "Application\\appsettings.Production.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-29T07:57:18.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T07:57:18.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Program.cs",
               "RelativeDocumentMoniker": "Application\\Program.cs",
@@ -72,12 +87,7 @@
               "RelativeToolTip": "Application\\Program.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T07:44:16.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2025-06-29T07:44:16.082Z"
             }
           ]
         }
