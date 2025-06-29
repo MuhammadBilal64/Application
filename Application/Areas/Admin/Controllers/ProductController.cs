@@ -95,16 +95,18 @@ namespace BookedIn.Areas.Admin.Controllers
                 if (obj.Product.Id == 0)
                 {
                 _unitofwork.Product.Add(obj.Product);
+                    TempData["success"] = "Product Created Successfully";
 
                 }
                 else
                 {
                     _unitofwork.Product.Update(obj.Product);
+                    TempData["success"] = "Product Updated Successfully";
+
                 }
 
 
                 _unitofwork.Save();
-                TempData["success"] = "Product Created Successfully";
                 return RedirectToAction("Index");
             }
             else
