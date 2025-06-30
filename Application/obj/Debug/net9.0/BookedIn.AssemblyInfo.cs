@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookedIn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80b68ddc7c43da24e8cf877f7835fbecdf11bd7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edfaa231315646fd916b4287dfe8cdbdb6f7e251")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookedIn")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookedIn")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

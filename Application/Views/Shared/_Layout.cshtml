@@ -79,7 +79,7 @@
                             </li>
                         }
 
-                        @if (User.IsInRole(SD.Role_Admin) || User.IsInRole(SD.Role_Employee) || User.IsInRole(SD.Role_Company))
+                        @if (User.IsInRole(SD.Role_Admin) || User.IsInRole(SD.Role_Employee) )
                         {
                             <li class="nav-item">
                                 <a class="nav-link" asp-area="Admin" asp-controller="Dashboard" asp-action="Index">
@@ -103,9 +103,10 @@
         </main>
     </div>
 
-    <footer class="border-top footer bg-primary text-muted">
-        <p style="text-align:center" >&copy; 2025 - BookedIn - All rights reserved.</p>
+    <footer class="border-top footer bg-dark text-white">
+        <p class="text-center m-0">&copy; 2025 - BookedIn - All rights reserved.</p>
     </footer>
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/js/product.js" asp-append-version="true"></script>
     <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
