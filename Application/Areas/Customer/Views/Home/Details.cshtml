@@ -82,6 +82,7 @@
                             <p class="text-secondary lh-sm">@Html.Raw(Model.Product.Description)</p>
                         </div>
 
+                        @if (User.IsInRole(SD.Role_Customer))
                         {
                             <div class="row pl-2 mb-3">
                                 <div class="col-md-4">
@@ -102,8 +103,8 @@
                                     </button>
                                 </div>
                             </div>
-                        
 
+                        }
                     </div>
                 </div>
             </div>
