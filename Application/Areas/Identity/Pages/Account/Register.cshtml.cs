@@ -178,7 +178,7 @@ namespace BookedIn.Areas.Identity.Pages.Account
                     }
                     else
                     {
-                        await _userManager.AddToRoleAsync(user, SD.Role_Employee);
+                        await _userManager.AddToRoleAsync(user, SD.Role_Customer);
 
                     }
                     var userId = await _userManager.GetUserIdAsync(user);
