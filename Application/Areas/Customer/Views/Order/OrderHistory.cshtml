@@ -1,0 +1,63 @@
+﻿@model IEnumerable<BookedIn.Models.OrderHeader>
+
+@{
+    ViewData["Title"] = "Order History";
+}
+
+<div class="card shadow border-0 mt-4">
+    <div class="card-header bg-secondary bg-gradient text-white py-3">
+        <h2 class="text-center">Your Order History</h2>
+    </div>
+    <div class="card-body">
+        @if (!Model.Any())
+        {
+            <p class="text-center text-muted">You have not placed any orders yet.</p>
+        }
+        else
+        {
+            <div class="table-responsive">
+                <table class="table table-bordered table-striped">
+                    <thead class="table-secondary">
+                        <tr>
+                            <th>Order #</th>
+                            <th>Order Date</th>
+                            <th>Total Amount</th>
+                            <th>Payment Status</th>
+                            <th>Order Status</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var order in Model.OrderByDescending(o => o.OrderDate))
+                        {
+                            <tr>
+                                <td>@order.Id</td>
+                                <td>@order.OrderDate.ToString("dd-MMM-yyyy")</td>
+                                <td>@order.OrderTotal.ToString("C")</td>
+                                <td>@order.PaymentStatus</td>
+                                <td>@order.OrderStatus</td>
+                                <td>
+                                    <a asp-action="Details" asp-route-id="@order.Id" class="btn btn-sm btn-primary">
+                                        <i class="bi bi-eye-fill"></i> Details
+                                    </a>
+                                    @if (order.OrderStatus == "Pending" && order.PaymentStatus == "Pending")
+                                    {
+                                        <a asp-action="ContinuePayment" asp-route-id="@order.Id" class="btn btn-sm btn-warning me-1">
+                                            <i class="bi bi-arrow-repeat"></i> Continue
+                                        </a>
+                                        <form id="cancel-form-@order.Id" asp-action="ClearOrder" asp-route-id="@order.Id" method="post" class="d-inline">
+                                            <button type="button" class="btn btn-sm btn-danger cancel-order-btn" data-id="@order.Id">
+                                                <i class="bi bi-x-circle"></i> Clear
+                                            </button>
+                                        </form>
+                                    }
+
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        }
+    </div>
+</div>

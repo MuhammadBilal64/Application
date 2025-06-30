@@ -17,6 +17,11 @@ public static class SD
         public const string OrderStatusPlaced = "Order Placed";
         public const string PaymentStatusPending = "Pending";
         public const string OrderStatusPending = "Pending";
+        public const string PaymentStatusCancelled = "Cancelled";
+        public const string OrderStatusCancelled = "Cancelled"; 
+
+
+
 
 
     }

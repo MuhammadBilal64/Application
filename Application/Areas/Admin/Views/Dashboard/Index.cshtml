@@ -1,0 +1,85 @@
+﻿@model BookedIn.Models.ViewModels.DashboardVM
+
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="container-fluid mt-4">
+    <h2 class="text-center mb-4">Admin Dashboard</h2>
+
+    <div class="row g-4">
+
+        <div class="col-md-3">
+            <div class="card text-white bg-primary shadow">
+                <div class="card-body">
+                    <h5 class="card-title">Total Orders</h5>
+                    <h3 class="card-text">@Model.TotalOrders</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="card text-white bg-success shadow">
+                <div class="card-body">
+                    <h5 class="card-title">Total Revenue</h5>
+                    <h3 class="card-text">@Model.TotalRevenue.ToString("C")</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="card text-white bg-info shadow">
+                <div class="card-body">
+                    <h5 class="card-title">Total Users</h5>
+                    <h3 class="card-text">@Model.TotalUsers</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="card text-white bg-dark shadow">
+                <div class="card-body">
+                    <h5 class="card-title">Products</h5>
+                    <h3 class="card-text">@Model.TotalProducts</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="card text-white bg-secondary shadow">
+                <div class="card-body">
+                    <h5 class="card-title">Categories</h5>
+                    <h3 class="card-text">@Model.TotalCategories</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="card text-white bg-warning shadow">
+                <div class="card-body">
+                    <h5 class="card-title">Pending Orders</h5>
+                    <h3 class="card-text">@Model.TotalPendingOrders</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="card text-white bg-success shadow">
+                <div class="card-body">
+                    <h5 class="card-title">Completed Orders</h5>
+                    <h3 class="card-text">@Model.TotalCompletedOrders</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="card text-white bg-danger shadow">
+                <div class="card-body">
+                    <h5 class="card-title">Cancelled Orders</h5>
+                    <h3 class="card-text">@Model.TotalCancelledOrders</h3>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

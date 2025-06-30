@@ -271,6 +271,77 @@ namespace BookedIn.Areas.Customer.Controllers
             return RedirectToAction("OrderConfirmation", new { id = orderId });
         }
 
+        [Authorize]
+
+        public IActionResult OrderHistory()
+        {
+      var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+
+            var orderHeaders = _unitOfWork.OrderHeader
+                .GetAll(u => u.ApplicationUserId == userId,  "ApplicationUser");
+
+            if (!orderHeaders.Any())
+            {
+                TempData["error"] = "You have not placed any orders yet.";
+            }
+            return View(orderHeaders);
+        }
+        [Authorize]
+
+        public IActionResult Details(int id)
+        {
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var orderHeader = _unitOfWork.OrderHeader.Get(u => u.Id == id&&u.ApplicationUserId==userId, "ApplicationUser");
+            var orderDetails = _unitOfWork.OrderDetail.GetAll(u => u.OrderHeaderId == id, "Product");
+
+            if (orderHeader == null || orderDetails == null || !orderDetails.Any())
+                return NotFound();
+
+            OrderDetailsVM viewModel = new OrderDetailsVM
+            {
+                OrderHeader = orderHeader,
+                OrderDetailList = orderDetails
+            };
+
+            return View(viewModel);
+        }
+        [Authorize]
+        public IActionResult ContinuePayment(int id)
+        {
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var order = _unitOfWork.OrderHeader.Get(u => u.Id == id && u.ApplicationUserId == userId);
+
+            if (order == null || order.PaymentStatus != SD.PaymentStatusPending)
+            {
+                TempData["error"] = "Invalid or already completed order.";
+                return RedirectToAction("OrderHistory");
+            }
+
+            return RedirectToAction("PaymentMethod", new { id = id });
+        }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult ClearOrder(int id)
+        {
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var order = _unitOfWork.OrderHeader.Get(u => u.Id == id && u.ApplicationUserId == userId);
+
+            if (order == null || order.PaymentStatus != SD.PaymentStatusPending || order.OrderStatus != SD.OrderStatusPending)
+            {
+                TempData["error"] = "This order cannot be cleared.";
+                return RedirectToAction("OrderHistory");
+            }
+
+            order.PaymentStatus = SD.PaymentStatusCancelled;
+            order.OrderStatus = SD.OrderStatusCancelled;
+            _unitOfWork.OrderHeader.Update(order);
+            _unitOfWork.Save();
+
+            TempData["success"] = "Order cleared successfully.";
+            return RedirectToAction("OrderHistory");
+        }
+
+
 
     }
 }
