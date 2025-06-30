@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\New Volume\\.Net_Core_Projects\\Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\new volume\\.net_core_projects\\application\\application\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\new volume\\.net_core_projects\\application\\application\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\new volume\\.net_core_projects\\application\\application\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\new volume\\.net_core_projects\\application\\application\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\new volume\\.net_core_projects\\application\\application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\new volume\\.net_core_projects\\application\\application\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90829B69-ADA3-4AFF-A370-1E37D3384226}|Bulky.Utility\\BookedIn.Utility.csproj|d:\\new volume\\.net_core_projects\\application\\bulky.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,34 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SD.cs",
-              "DocumentMoniker": "D:\\New Volume\\.Net_Core_Projects\\Application\\Bulky.Utility\\SD.cs",
-              "RelativeDocumentMoniker": "Bulky.Utility\\SD.cs",
-              "ToolTip": "D:\\New Volume\\.Net_Core_Projects\\Application\\Bulky.Utility\\SD.cs",
-              "RelativeToolTip": "Bulky.Utility\\SD.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T14:49:15.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "Application\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "Application\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAAKsAAAAAAAAAAAAAAKsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T14:23:33.174Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -76,20 +50,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "SD.cs",
+              "DocumentMoniker": "D:\\New Volume\\.Net_Core_Projects\\Application\\Bulky.Utility\\SD.cs",
+              "RelativeDocumentMoniker": "Bulky.Utility\\SD.cs",
+              "ToolTip": "D:\\New Volume\\.Net_Core_Projects\\Application\\Bulky.Utility\\SD.cs",
+              "RelativeToolTip": "Bulky.Utility\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:49:15.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Application\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Application\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAgwPYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:23:33.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Application\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ToolTip": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeToolTip": "Application\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAHkAAAAAAAAAAAAkwIoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAkwIcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-30T14:15:56.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Areas\\Customer\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "Application\\Areas\\Customer\\Views\\Home\\Details.cshtml",
@@ -102,13 +101,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Application\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Application\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAkwG8AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-30T13:41:56.535Z",
               "EditorCaption": ""
