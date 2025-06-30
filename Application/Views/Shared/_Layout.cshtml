@@ -79,7 +79,7 @@
                             </li>
                         }
 
-                        @if (User.IsInRole(SD.Role_Admin) || User.IsInRole(SD.Role_Employee) )
+                        @if (User.IsInRole(SD.Role_Admin))
                         {
                             <li class="nav-item">
                                 <a class="nav-link" asp-area="Admin" asp-controller="Dashboard" asp-action="Index">
@@ -87,6 +87,7 @@
                                 </a>
                             </li>
                         }
+
 
 
 

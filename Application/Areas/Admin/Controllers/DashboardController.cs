@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace BookedIn.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize(Roles = "Admin,Employee,Company")]
+    [Authorize(Roles = SD.Role_Admin)]
 
     public class DashboardController : Controller
     {

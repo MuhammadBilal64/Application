@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\New Volume\\.Net_Core_Projects\\Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\new volume\\.net_core_projects\\application\\application\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\new volume\\.net_core_projects\\application\\application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\new volume\\.net_core_projects\\application\\application\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\new volume\\.net_core_projects\\application\\application\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\new volume\\.net_core_projects\\application\\application\\areas\\customer\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\areas\\customer\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|d:\\new volume\\.net_core_projects\\application\\application\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79762C67-2BD1-4F2C-8371-CA0CAA6E7358}|Application\\BookedIn.csproj|solutionrelative:application\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,53 +35,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "RelativeDocumentMoniker": "Application\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "ToolTip": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "RelativeToolTip": "Application\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFUAAAAZAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Application\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Application\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAFcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-30T13:23:52.809Z",
+              "WhenOpened": "2025-06-30T13:41:56.535Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Areas\\Admin\\Views\\Order\\Details.cshtml",
-              "RelativeDocumentMoniker": "Application\\Areas\\Admin\\Views\\Order\\Details.cshtml",
-              "ToolTip": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Areas\\Admin\\Views\\Order\\Details.cshtml",
-              "RelativeToolTip": "Application\\Areas\\Admin\\Views\\Order\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-30T13:23:39.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Areas\\Admin\\Views\\Order\\Index.cshtml",
-              "RelativeDocumentMoniker": "Application\\Areas\\Admin\\Views\\Order\\Index.cshtml",
-              "ToolTip": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Areas\\Admin\\Views\\Order\\Index.cshtml",
-              "RelativeToolTip": "Application\\Areas\\Admin\\Views\\Order\\Index.cshtml",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAACsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-30T13:22:50.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Areas\\Customer\\Views\\ShoppingCart\\Index.cshtml",
-              "RelativeDocumentMoniker": "Application\\Areas\\Customer\\Views\\ShoppingCart\\Index.cshtml",
-              "ToolTip": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Areas\\Customer\\Views\\ShoppingCart\\Index.cshtml",
-              "RelativeToolTip": "Application\\Areas\\Customer\\Views\\ShoppingCart\\Index.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-30T13:22:23.213Z",
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Application\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\New Volume\\.Net_Core_Projects\\Application\\Application\\Areas\\Admin\\Controllers\\DashboardController.cs*",
+              "RelativeToolTip": "Application\\Areas\\Admin\\Controllers\\DashboardController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:41:23.425Z",
               "EditorCaption": ""
             }
           ]
